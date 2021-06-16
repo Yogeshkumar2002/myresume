@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    width: 93%;
+    min-height: 100vh;
+    background: rgb(245, 243, 243);
+    margin: 1rem auto 0 auto;
+    box-shadow: 2px 2px 16px 0px rgba(red, green, blue, alpha) ;
+    
+    
+
+
+    
+}
